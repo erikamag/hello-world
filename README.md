@@ -1,2 +1,5 @@
 # hello-world
-git-hub tutorial
+
+Hello!
+
+Erika, here. I like learning about plants!
